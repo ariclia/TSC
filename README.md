@@ -18,8 +18,8 @@ git add
 git status
 git commit -m -m ”comentariu”
 git status
-git config --global user.name ”Buciumean Claudia”
-git config --global user.email ”claudiabuciumean@gmail.com”
+git config --global user.name ””
+git config --global user.email ””
 git config --global --list
 git status
 git commit -m ”update Lab2”
@@ -27,11 +27,10 @@ git status
 git push origin main
 git status
 git push
-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
 code README.MD
 nano 
-git config --global user.name ”ariclia”
-git config --global user.email ”claudiabuciumean@gmail.com”
+git config --global user.name ””
+git config --global user.email ””
 sudo apt code
 sudo apt update
 git push
